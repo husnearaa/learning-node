@@ -14,4 +14,4 @@ myEmitter.on('birthday',(gift)=>{
 })
 
 
-myEmitter.emit('birthday', 'watch')
+myEmitter.emit('birthday', 'Phone')
